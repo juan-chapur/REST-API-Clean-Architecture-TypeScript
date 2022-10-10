@@ -1,4 +1,9 @@
-# Create User
+# Index
+* [Create User](#create-user)
+* [Get User](#get--user)
+* [Get All Users](#get-all-users)
+
+## Create User
 **URL**: `/user`
 **Method**: `POST`
 
@@ -40,7 +45,7 @@
 }
 ```
 
-# Get User
+## Get User
 **URL**: `/user`
 **Method**: `GET`
 
@@ -76,7 +81,7 @@
 }
 ```
 
-# Get All Users
+## Get All Users
 **URL**: `/user/list`
 **Method**: `GET`
 
