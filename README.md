@@ -1,6 +1,6 @@
 # Index
 * [Create User](#create-user)
-* [Get User](#get--user)
+* [Get User](#get-user)
 * [Get All Users](#get-all-users)
 
 ## Create User
