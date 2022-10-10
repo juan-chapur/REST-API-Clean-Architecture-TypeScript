@@ -2,6 +2,8 @@ import { Router } from "express";
 import { UserUseCase } from "../../application/userUseCase";
 import { UserController } from "../controller/user.controller";
 import { MockRepository } from "../repository/mock.repository";
+import { MySqlRepository } from "../repository/mysql.repository";
+import { PostgresqlRepository } from "../repository/postgresql.repository";
 import { MongoRepository } from "../repository/mongo.repository";
 
 const route = Router()
